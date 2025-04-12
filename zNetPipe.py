@@ -1,3 +1,17 @@
+# ============================================
+# zNetPipe - TCP File Transfer Tool
+# ============================================
+# Author: Jose Luis Ocana - 0xZorro 
+# Created: 2025-04-12
+# Description: A lightweight Python tool for sending and receiving files over TCP.
+#              Provides a command-line interface for file transfer, port control,
+#              and runtime configuration – inspired by netcat functionality.
+#
+# License: MIT License (see LICENSE file for details)
+# Version: 1.0
+# Repository: https://github.com/0xZorro/zNetPipe
+# ============================================
+
 import socket
 import threading
 import os

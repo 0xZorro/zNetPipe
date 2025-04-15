@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Projektname Header" width="300"/>
+  <img src="Banner.png" alt="zNetPipe" width="300"/>
 </p>
 
 # zNetPipe

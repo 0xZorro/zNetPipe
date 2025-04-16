@@ -261,3 +261,5 @@ Only use it in **controlled environments and on systems you own or have permissi
 <p align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
 </p>
+
+---

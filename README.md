@@ -260,6 +260,10 @@ Bitte setze dieses Tool **ausschließlich in kontrollierten Testumgebungen** ein
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
-</p>
+  <br/>
+  <sub>© 2025 0xZorro</sub>
+</div>
+
+---

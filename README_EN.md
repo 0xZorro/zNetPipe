@@ -258,8 +258,10 @@ Only use it in **controlled environments and on systems you own or have permissi
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
-</p>
+  <br/>
+  <sub>© 2025 0xZorro</sub>
+</div>
 
 ---

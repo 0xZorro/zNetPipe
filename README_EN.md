@@ -2,6 +2,10 @@
   <img src="Banner.png" alt="zNetPipe" width="300"/>
 </p>
 
+<p align="right">
+  <a href="./README.md">Zur deutschen Version wechseln</a>
+</p>
+
 # zNetPipe
 
 **zNetPipe** is a lightweight Python tool for sending and receiving files over TCP/IP – without additional libraries, services, or frameworks. It simulates the basic functionality of `netcat`, extended with file transfer and simple command handling.
